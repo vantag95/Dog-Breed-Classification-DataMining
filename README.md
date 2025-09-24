@@ -6,7 +6,7 @@ This project unifies all 4 programming assignments from the Data Mining course u
 
 Each assignment focuses on different aspects of dog breed classification using images and annotations (bounding boxes).  
 
-\- \*\*Total Classes Used:\*\* 4 (assigned per student)
+\*\*Total Classes Used:\*\* 4 (assigned per student)
 
-\- \*\*Dataset:\*\* Stanford Dogs Dataset (\[link](http://vision.stanford.edu/aditya86/ImageNetDogs/))
-\- \*\*Number of Images per Class:\*\* 148–252
+\*\*Dataset:\*\* Stanford Dogs Dataset (\[link](http://vision.stanford.edu/aditya86/ImageNetDogs/))
+\*\*Number of Images per Class:\*\* 148–252
